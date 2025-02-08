@@ -37,7 +37,8 @@ Hi there! I'm **Saikat**, a competitive programmer and an aspiring software engi
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-[![](https://visitcount.itsvg.in/api?id=SaikatDeb12&icon=0&color=7)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=SaikatDeb12&color=blue)
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
