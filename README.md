@@ -34,6 +34,9 @@ Hi there! I'm **Saikat**, a competitive programmer and an aspiring software engi
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SaikatDeb12&theme=dark&hide_border=false)
 
+<a href="http://www.github.com/SaikatDeb12"><img src="https://github-readme-activity-graph.vercel.app/graph?username=SaikatDeb12&theme=merko&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
