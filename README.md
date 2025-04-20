@@ -84,8 +84,5 @@ Hi there! I'm **Saikat**, a competitive programmer and an aspiring software engi
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SaikatDeb12&color=blue)
 
-<div align="center">
-    <img src="https://raw.githubusercontent.com/[YourGitHub]/[YourGitHub]/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
-</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
